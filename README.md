@@ -19,20 +19,21 @@ I'm a current Master's student in Computer Science at Arizona State University, 
 <div id="tools-badges">
     <p align="left">
         <!-- Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://www.python.org" target="_blank">Python</a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><a href="https://isocpp.org" target="_blank">C++</a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><a href="https://www.javascript.com" target="_blank">JavaScript</a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><a href="https://www.mysql.com" target="_blank">MySQL</a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">HTML5</a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">CSS3</a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/><a href="https://reactjs.org" target="_blank">React</a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/><a href="https://nodejs.org" target="_blank">Node.js</a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/><a href="https://www.typescriptlang.org" target="_blank">TypeScript</a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/><a href="https://redux.js.org" target="_blank">Redux</a>
-<img src="https://material-ui.com/static/logo.svg" alt="materialui" width="40" height="40"/><a href="https://material-ui.com" target="_blank">Material-UI</a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/><a href="https://aws.amazon.com" target="_blank">AWS</a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="snowflake" width="40" height="40"/><a href="https://www.snowflake.com" target="_blank">Snowflake</a>
-<img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" alt="docker" width="40"/><a href="https://www.docker.com" target="_blank">Docker</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://www.python.org" target="_blank" rel="noreferrer">Python</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><a href="https://isocpp.org" target="_blank" rel="noreferrer">C++</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><a href="https://www.javascript.com" target="_blank" rel="noreferrer">JavaScript</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><a href="https://www.mysql.com" target="_blank" rel="noreferrer">MySQL</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer">HTML5</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">CSS3</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/><a href="https://reactjs.org" target="_blank" rel="noreferrer">React</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/><a href="https://nodejs.org" target="_blank" rel="noreferrer">Node.js</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/><a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">TypeScript</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/><a href="https://redux.js.org" target="_blank" rel="noreferrer">Redux</a>
+<img src="https://material-ui.com/static/logo.svg" alt="materialui" width="40" height="40"/><a href="https://material-ui.com" target="_blank" rel="noreferrer">Material-UI</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/><a href="https://aws.amazon.com" target="_blank" rel="noreferrer">AWS</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="snowflake" width="40" height="40"/><a href="https://www.snowflake.com" target="_blank" rel="noreferrer">Snowflake</a>
+<img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" alt="docker" width="40"/><a href="https://www.docker.com" target="_blank" rel="noreferrer">Docker</a>
+
 </p>
 </div>
 
